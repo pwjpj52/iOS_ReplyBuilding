@@ -1,0 +1,6 @@
+framework module Pods_ReplyDemo {
+  umbrella header "Pods-ReplyDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
